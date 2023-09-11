@@ -1,0 +1,14 @@
+De que Color es el Pasto?;
+Verde;
+Rojo;
+Azul;
+1;
+0;
+0;/
+Cuales son partes del cuerpo humano?;
+Zapatilla;
+Mano;
+Orejas;
+0;
+2;
+3;
